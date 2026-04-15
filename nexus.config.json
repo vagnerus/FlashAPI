@@ -1,0 +1,7 @@
+{
+  "geminiApiKey": "AIzaSyAQ1z13cXvn1Tb6iIgogHBql6eidMgD08Q",
+  "anthropicApiKey": "",
+  "defaultProvider": "gemini",
+  "googleModel": "gemini-2.5-flash",
+  "anthropicModel": "claude-sonnet-4-20250514"
+}
